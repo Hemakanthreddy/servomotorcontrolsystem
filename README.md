@@ -1,4 +1,3 @@
-# servomotorcontrolsystem
 # Servo Motor Control System using Arduino UNO R3
 
 ## Overview
@@ -66,12 +65,8 @@ This project demonstrates how to control an **SG90 Servo Motor** using an **Ardu
 
 ## Output
 
-```
-Servo Angle
-90°
-```
-
----
+<img width="1200" height="1600" alt="WhatsApp Image 2026-07-18 at 6 07 43 PM" src="https://github.com/user-attachments/assets/1e79520e-2084-431e-a443-8c05a8123ff1" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-07-18 at 6 07 42 PM" src="https://github.com/user-attachments/assets/697c4bd3-ed54-4ffc-9872-6875f63f878d" />
 
 ## Applications
 
